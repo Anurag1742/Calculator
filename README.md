@@ -2,8 +2,9 @@
 
 A sleek and functional calculator built with vanilla HTML, CSS, and JavaScript. This project provides a user-friendly interface for performing basic arithmetic operations, designed with a modern aesthetic and responsive layout.
 
-![Calculator Screenshot](https://i.imgur.com/8v6zY7p.png)
-*(Note: You can replace this with a screenshot of your own project)*
+<img width="391" height="542" alt="image" src="https://github.com/user-attachments/assets/73d60ce4-2c41-4461-90ce-8d0f74cce0b0" />
+<img width="404" height="553" alt="image" src="https://github.com/user-attachments/assets/1c2ad03a-4339-419a-8b55-18721555a79d" />
+
 
 ## ✨ Features
 
