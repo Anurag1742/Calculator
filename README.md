@@ -35,7 +35,7 @@ No complex setup is required to run this project.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/calculator-project.git](https://github.com/your-username/calculator-project.git)
+    git clone [https://github.com/Anurag1742/Calculator](https://github.com/Anurag1742/Calculator)
     ```
 2.  **Navigate to the project directory:**
     ```bash
